@@ -2,7 +2,7 @@
 Vehicle Rental Management System using Python and Django web framework
 
 ## Author
-Kshitij Jaiswal
+Kshitij Akash Jaiswal
 
 # Vehicle Rental System
 A Vehicle Rental Management System built using Python.
@@ -16,6 +16,9 @@ A Vehicle Rental Management System built using Python.
 
 ## Technologies
 - Python
+- CSS for Styling
+- Basic HTML
+- Django Framework
 - JSON / SQLite
-- Tkinter (if applicable)
+  
 
